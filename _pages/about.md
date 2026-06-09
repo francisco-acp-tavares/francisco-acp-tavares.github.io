@@ -15,7 +15,7 @@ I’m always interested in new projects and understanding what other colleagues 
 * We will be presenting our project **Who benefits from industrial policy? Evidence from firm investment grants** at the [Portuguese Economic Journal Conference](https://www.ua.pt/pt/pej2026/), 3-5 July 2026.
 * The 2025 report of [Portugal, Balanço Social](https://portugalbalancosocial.pt/) was presented on May 20th. Press coverage: [ECO](https://eco.sapo.pt/2026/05/20/trabalhar-nem-sempre-evita-pobreza-quase-9-dos-empregados-em-portugal-sao-pobres/), [Expresso](https://expresso.pt/sociedade/2026-05-20-15-das-familias-pobres-nao-conseguem-garantir-as-criancas-uma-alimentacao-nutritiva-b9e0d26f), [Público](https://www.publico.pt/2026/05/20/sociedade/noticia/20-criancas-pobres-fome-nao-comeu-falta-dinheiro-2175310).
    
-## Working in Progress
+## Work in Progress
 
 ### Who benefits from industrial policy? Evidence from firm investment grants 
 with Manuel Rosa Cruz
