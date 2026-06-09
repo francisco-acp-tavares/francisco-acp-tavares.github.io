@@ -85,10 +85,10 @@ author:
 publication_category:
   books:
     title: 'Books'
-  manuscripts:
+  research_project:
     title: 'Research Projects'    
-  conferences:
-    title: 'policy Work'
+  policy_work:
+    title: 'Policy Work'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
