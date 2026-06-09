@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "Household saving during the COVID-19 pandemic and implications for the recovery of consumption"
 collection: publications
-category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+category: policy_work
+permalink: /publication/second-policy-project
+date: 2022-05-10
+venue: 'Policy Report'
+paperurl: 'https://www.ecb.europa.eu/press/economic-bulletin/focus/2022/html/ecb.ebbox202205_03~d262f01c8b.en.html'
+citation: 'Dossche, M., Georgarakos, D., Kolndrekaj, A., Tavares, F. (2022), "Household saving during the COVID-19 pandemic and implications for the recovery of consumption," Economic Bulletin Boxes, European Central Bank, vol. 5.&quot;'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This box uses the ECB Consumer Expectations Survey (CES) to assess euro area household saving behavior since the start of the coronavirus (COVID-19) pandemic. Most respondents reported that during the pandemic they were not able to increase their savings. Those that were able to do so reported that COVID-19-related restrictions, fear of infection, and precautionary motives were the most important reasons for accumulating savings. 
+
+The findings indicate that the bulk of these accumulated savings were not expected to be spent quickly, tempering expectations of widespread pent-up demand during the economic recovery. Furthermore, because pandemic-related savings were highly concentrated among higher-income households with low exposure to energy-intensive expenditures, they offer limited potential to shield the ongoing recovery of consumption from adverse macroeconomic shocks, such as surges in energy prices.
